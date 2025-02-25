@@ -1,4 +1,3 @@
-# Document-retrieval-classification
 
 # Document Retrieval and Classification System
 
