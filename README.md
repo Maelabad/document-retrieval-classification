@@ -28,10 +28,3 @@ The system is built using the [FAKE_NEWS](https://www.kaggle.com/datasets/shubh0
 - [Pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/document-retrieval-classification.git
-
-
